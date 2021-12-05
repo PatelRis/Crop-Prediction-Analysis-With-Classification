@@ -1,4 +1,4 @@
-# Crop prediction analysis w/ classification 🚜👨‍🌾<br><br>
+# Crop prediction analysis w/ classification 🚜👨‍🌾<br>
 
 ![alt text](https://i.imgur.com/MQcqLwg.gif)
 
