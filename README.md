@@ -9,8 +9,8 @@
 
 In the crop recommendation, the user can provide the parameters like 𝑵-𝑷-𝑲, 𝒕𝒆𝒎𝒑𝒆𝒓𝒂𝒕𝒖𝒓𝒆, 𝒉𝒖𝒎𝒊𝒅𝒊𝒕𝒚, 𝒑𝑯 𝒗𝒂𝒍𝒖𝒆, 𝒓𝒂𝒊𝒏𝒇𝒂𝒍𝒍 & 𝒄𝒓𝒐𝒑 from their side and the application will predict which crop should the user grow.
 
-𝑵𝒊𝒕𝒓𝒐𝒈𝒆𝒏 (𝑵) – Nitrogen is largely responsible for the growth of leaves on the plant.
-𝑷𝒉𝒐𝒔𝒑𝒉𝒐𝒓𝒖𝒔 (𝑷) – Phosphorus is largely responsible for root growth and flower and fruit development.
-𝑷𝒐𝒕𝒂𝒔𝒔𝒊𝒖𝒎 (𝑲) – Potassium is a nutrient that helps the overall functions of the plant perform correctly.
+• 𝑵𝒊𝒕𝒓𝒐𝒈𝒆𝒏 (𝑵) – Nitrogen is largely responsible for the growth of leaves on the plant.<br>
+• 𝑷𝒉𝒐𝒔𝒑𝒉𝒐𝒓𝒖𝒔 (𝑷) – Phosphorus is largely responsible for root growth and flower and fruit development.<br>
+• 𝑷𝒐𝒕𝒂𝒔𝒔𝒊𝒖𝒎 (𝑲) – Potassium is a nutrient that helps the overall functions of the plant perform correctly.<br>
 
 ![alt text](https://i.imgur.com/qpOUo9R.gif)
