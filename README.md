@@ -1,6 +1,6 @@
 # Crop prediction analysis w/ classification 🚜👨‍🌾<br>
 
-#### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification
+#### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification<br><br>
 
 ![alt text](https://i.imgur.com/MQcqLwg.gif)
 
@@ -11,6 +11,6 @@ In the crop recommendation, the user can provide the parameters like 𝑵-𝑷-�
 
 • 𝑵𝒊𝒕𝒓𝒐𝒈𝒆𝒏 (𝑵) – Nitrogen is largely responsible for the growth of leaves on the plant.<br>
 • 𝑷𝒉𝒐𝒔𝒑𝒉𝒐𝒓𝒖𝒔 (𝑷) – Phosphorus is largely responsible for root growth and flower and fruit development.<br>
-• 𝑷𝒐𝒕𝒂𝒔𝒔𝒊𝒖𝒎 (𝑲) – Potassium is a nutrient that helps the overall functions of the plant perform correctly.<br>
+• 𝑷𝒐𝒕𝒂𝒔𝒔𝒊𝒖𝒎 (𝑲) – Potassium is a nutrient that helps the overall functions of the plant perform correctly.<br><br>
 
 ![alt text](https://i.imgur.com/qpOUo9R.gif)
