@@ -1,6 +1,6 @@
-# Crop prediction analysis w/ classification 🚜👨‍🌾  <br>
+# Crop prediction analysis w/ classification 🚜👨‍🌾<br>
 
-### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification
+#### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification
 
 ![alt text](https://i.imgur.com/MQcqLwg.gif)
 
