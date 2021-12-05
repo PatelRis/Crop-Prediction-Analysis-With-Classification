@@ -1,6 +1,8 @@
 # Crop prediction analysis w/ classification 🚜👨‍🌾<br>
 
-#### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification<br><br>
+#### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification<br>
+
+##### 𝑻𝒉𝒊𝒔 𝒌𝒆𝒓𝒏𝒆𝒍 𝒊𝒔 𝒑𝒂𝒓𝒕 𝒐𝒇 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝑨𝒈𝒓𝒐𝑴𝑳: - https://github.com/PatelRis/AgroML<br><br><br>
 
 ![alt text](https://i.imgur.com/MQcqLwg.gif)
 
