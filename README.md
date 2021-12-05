@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/MQcqLwg.gif)
 
-##### Refer Kaggle kernel for better experience as Github doesn't support scripting markdown 👇
+#### Refer **Kaggle kernel** for better experience as Github doesn't support scripting markdown 👇
 
 #### My kaggle notebook on 𝑪𝒓𝒐𝒑 𝒑𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒘/ 𝒄𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 🚜👨‍🌾: - https://www.kaggle.com/patelris/crop-prediction-analysis-w-classification<br>
 
